@@ -1,6 +1,6 @@
 import React from 'react'
 import './services.css'
-import {TbMoodCheck} from 'react-icons/tb'
+import {VscCircleFilled} from 'react-icons/vsc'
 const Services = () => {
   return (
     <section id='services'>
@@ -10,33 +10,33 @@ const Services = () => {
         <article className='service'>
           <div className="service__head">
             <h3>
-              UI/UX Design
+              Back-End Development
             </h3>
           </div>
           <ul className='service__list'>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Familiarity with Spring Boot, Hibernate.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>wMy Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Knowledge of AWS SDKs, such as Java SDK.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Experienced in NoSQL database like Mongodb.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Microservices and Containerization like K8S,Docker.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Node.Js and it's web-app framework Express.Js</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Open-Source http server like Apache,Nginx.</p>
             </li>
           </ul>
         </article>
@@ -48,28 +48,28 @@ const Services = () => {
           </div>
           <ul className='service__list'>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Full Stack Web Hosting and Integration.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Full Stack Web and Application Development.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Migration and Porting to Full Stack Development.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Full stack Cloud-based Application Development.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>API Development in Javascript and Python.</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Full Stack SaaS Application Development</p>
             </li>
           </ul>
         </article>
@@ -81,28 +81,28 @@ const Services = () => {
           </div>
           <ul className='service__list'>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Source code management (Git/Github).</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Automation server developing CI/ CD (Jenkins).</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Open-source Iaas software tool(Terraform).</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Software Containerization Platform(Docker).</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Container Orchestration optimally (Kubernetes).</p>
             </li>
             <li>
-              <TbMoodCheck className='service__list-icon'/>
-              <p>My Name Is Dev</p>
+              <VscCircleFilled className='service__list-icon'/>
+              <p>Configuration Management Deployment(Ansible).</p>
             </li>
           </ul>
         </article>
